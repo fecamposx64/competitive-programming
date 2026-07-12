@@ -1,0 +1,14 @@
+{
+  "year": 1996,
+  "page": "https://maratona.sbc.org.br/hist/1996/index.html",
+  "retrieved_at_utc": "2026-07-12T04:45:20.306526+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/1996/probl.pdf",
+      "path": "downloads/probl.pdf",
+      "bytes": 13173,
+      "sha256": "1250aa843ae2b4108c1e541e46c0526b1b25db90110f537752fd454ce621f741"
+    }
+  ]
+}

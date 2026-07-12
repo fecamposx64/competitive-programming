@@ -1,0 +1,21 @@
+{
+  "year": 2012,
+  "page": "https://maratona.sbc.org.br/hist/2012/index.html",
+  "retrieved_at_utc": "2026-07-12T14:44:28.343060+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2012/resultados12/data/warmup_br.pdf",
+      "path": "downloads/warmup_br.pdf",
+      "bytes": 229768,
+      "sha256": "26e2cbec7c70bda22d0208934b9c6623cd3a85f9deb93dc283c897d32987beed"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2012/resultados12/data/contest_br.pdf",
+      "path": "downloads/contest_br.pdf",
+      "bytes": 1031771,
+      "sha256": "6f0bb0ed2ad97773a4d4d7f5e033ed70048c62d972063e82bb5be5d38f88b15b"
+    }
+  ]
+}

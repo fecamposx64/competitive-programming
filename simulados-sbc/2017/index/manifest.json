@@ -1,0 +1,21 @@
+{
+  "year": 2017,
+  "page": "https://maratona.sbc.org.br/hist/2017/index.html",
+  "retrieved_at_utc": "2026-07-12T16:10:11.790185+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/resultados/warmup_input_output.zip",
+      "path": "downloads/warmup_input_output.zip",
+      "bytes": 91959,
+      "sha256": "260777d950686e06d27780de17ee1e68213debe2d1bc02e32ded30f622aac2c3"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/resultados/input_output.zip",
+      "path": "downloads/input_output.zip",
+      "bytes": 43960162,
+      "sha256": "201cb78f45bbfee5646a1dd4a0a135b786fb5e001ee70d19e69a8f97cab237ac"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "year": 2010,
+  "page": "https://maratona.sbc.org.br/hist/2010/problemas10.html",
+  "retrieved_at_utc": "2026-07-12T16:09:32.599398+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2010/warmup_2010.zip",
+      "path": "downloads/warmup_2010.zip",
+      "bytes": 476220,
+      "sha256": "75e33b595190880b9c5b8951619c9d2621752a115523c56fd62cb7884053c6c6"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2010/testset_2010.zip",
+      "path": "downloads/testset_2010.zip",
+      "bytes": 10817743,
+      "sha256": "df586c018775e9e019f611f1ee8f0ad1738784fde88c84d31191163a16aa7d6f"
+    }
+  ]
+}

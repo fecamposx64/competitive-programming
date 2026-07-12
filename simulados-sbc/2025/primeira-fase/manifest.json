@@ -1,0 +1,21 @@
+{
+  "year": 2025,
+  "page": "https://maratona.sbc.org.br/hist/2025/primeira-fase25.html",
+  "retrieved_at_utc": "2026-07-12T16:20:46.625124+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2025/subbr-2025/packages_warmup.tar",
+      "path": "downloads/packages_warmup.tar",
+      "bytes": 57774080,
+      "sha256": "2a7f3e5c582d8a754555b1c8be1e40127d80f469407ca4ef726339c83c1eb302"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2025/subbr-2025/packages_contest.tar",
+      "path": "downloads/packages_contest.tar",
+      "bytes": 273336320,
+      "sha256": "f73bef55371bd70601c7c753f2915631979a4e4b9202063799c65401864fab5b"
+    }
+  ]
+}

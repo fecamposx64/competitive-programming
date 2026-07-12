@@ -1,0 +1,15 @@
+# C++ build artifacts
+build/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+
+# Downloaded contest artifacts are reproducible by tools/fetch_sbc.py
+simulados-sbc/**/downloads/

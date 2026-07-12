@@ -1,0 +1,21 @@
+{
+  "year": 2013,
+  "page": "https://maratona.sbc.org.br/hist/2013/index.html",
+  "retrieved_at_utc": "2026-07-12T14:44:29.491989+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2013/resultados13/data/warmup_onesided.pdf",
+      "path": "downloads/warmup_onesided.pdf",
+      "bytes": 234582,
+      "sha256": "594921efaf33bb17719579ab1b77c625cc7a74179ce6433bc84baf7ffc216d65"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2013/resultados13/data/contest_onesided.pdf",
+      "path": "downloads/contest_onesided.pdf",
+      "bytes": 521299,
+      "sha256": "a4259a0f6bf72ac73ce4b264406484dd818b2bc028e5b4a0620f1490fce61609"
+    }
+  ]
+}

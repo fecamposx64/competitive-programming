@@ -1,0 +1,119 @@
+{
+  "year": 2021,
+  "page": "https://maratona.sbc.org.br/hist/2021/result21.html",
+  "retrieved_at_utc": "2026-07-12T16:13:28.252533+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/warmup/packages/A.zip",
+      "path": "downloads/A.zip",
+      "bytes": 107602,
+      "sha256": "03dfe60a6c5dd2ee40aeee073b311f006823f0df28a864b961c25facfa90cbc0"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/warmup/packages/B.zip",
+      "path": "downloads/B.zip",
+      "bytes": 74351,
+      "sha256": "48ee23e776705412d2387f09d848c77db2018770b473e3eb19c2589426ce2b96"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/warmup/packages/C.zip",
+      "path": "downloads/C.zip",
+      "bytes": 88421,
+      "sha256": "f00a24a401cf5c805d0dede417c5e12efa76745a65fd1b9625b270cdbc14620b"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/A.zip",
+      "path": "downloads/A.zip",
+      "bytes": 107602,
+      "sha256": "03dfe60a6c5dd2ee40aeee073b311f006823f0df28a864b961c25facfa90cbc0"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/B.zip",
+      "path": "downloads/B.zip",
+      "bytes": 74351,
+      "sha256": "48ee23e776705412d2387f09d848c77db2018770b473e3eb19c2589426ce2b96"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/C.zip",
+      "path": "downloads/C.zip",
+      "bytes": 88421,
+      "sha256": "f00a24a401cf5c805d0dede417c5e12efa76745a65fd1b9625b270cdbc14620b"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/D.zip",
+      "path": "downloads/D.zip",
+      "bytes": 118593599,
+      "sha256": "4979ae7a3bb4a66b23abc5c1e0333d23d1ee07cd16e948876dd20eb1801cbf72"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/E.zip",
+      "path": "downloads/E.zip",
+      "bytes": 470760,
+      "sha256": "6bc09bb55130d3fc6647253aed82437f6c064fa0fca4f7b77bdd5179500d4eea"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/F.zip",
+      "path": "downloads/F.zip",
+      "bytes": 36149278,
+      "sha256": "81398b88d4c1160d692c6814feca9057505dddd49b92ba07b038ca88e985fcd3"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/G.zip",
+      "path": "downloads/G.zip",
+      "bytes": 21532683,
+      "sha256": "1168b8885921647ce401244c8d1e3c67d39e002c889a95afd3426834e3273514"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/H.zip",
+      "path": "downloads/H.zip",
+      "bytes": 18611211,
+      "sha256": "7f8d88a76524b162e697705a9e278e6a87178b82faf16254426940a6241cb71f"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/I.zip",
+      "path": "downloads/I.zip",
+      "bytes": 3034410,
+      "sha256": "59066cce5fe6a04c049add8784a6e446cebaf281a8fe7e42be971644f07c698e"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/J.zip",
+      "path": "downloads/J.zip",
+      "bytes": 12941749,
+      "sha256": "de6dee136181a2eb56a73fe193de7db4d51d4bc102cf6f35fa9290edfe6c0061"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/K.zip",
+      "path": "downloads/K.zip",
+      "bytes": 5954861,
+      "sha256": "038a96cbded26474464a45b90c07a8086deaba55c02f9d6175054f39b90a33c9"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/L.zip",
+      "path": "downloads/L.zip",
+      "bytes": 96200,
+      "sha256": "a9e5c8e6c5afec1eccae3e8baab0b9e2bbc7fa7a24c1f9f9bd964570c5220424"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2021/resultados21/reports/contest/packages/M.zip",
+      "path": "downloads/M.zip",
+      "bytes": 600135,
+      "sha256": "1636c0349a8fac2cb159393d8903d6d0f8cf387a8667bfddfc991b722db3c7ef"
+    }
+  ]
+}

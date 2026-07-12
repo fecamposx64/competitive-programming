@@ -1,0 +1,385 @@
+{
+  "year": 2017,
+  "page": "https://maratona.sbc.org.br/hist/2017/vagas17.html",
+  "retrieved_at_utc": "2026-07-12T14:46:00.163257+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/aquecimento.pdf",
+      "path": "downloads/aquecimento.pdf",
+      "bytes": 270739,
+      "sha256": "524c00fed33dfa3b8c7ed74aa7ee52b0795e5ba9e316ad1d4c7644c7bd247f41"
+    },
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/info_aquecimento.pdf",
+      "path": "downloads/info_aquecimento.pdf",
+      "bytes": 211264,
+      "sha256": "686031276c21b30ad739f5335bfb4e612353d0762a0835a76f45b9b24b2e108a"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/maratona.pdf",
+      "path": "downloads/maratona.pdf",
+      "bytes": 342507,
+      "sha256": "50352464292336207a6aab215d9c993d3282928520d5d064c5fb71a6b50a3d98"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/basa.pdf",
+      "path": "downloads/basa.pdf",
+      "bytes": 145805,
+      "sha256": "ee06a7fe1e82267568bb3fbbcf1de263c2286c9d2de8f8bdd4258c3b5b03d062"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/cefo.pdf",
+      "path": "downloads/cefo.pdf",
+      "bytes": 164883,
+      "sha256": "e72a065479d54013f799e3c5877fc9d653368637dcdee44745b980c7777fd62b"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/dfbr.pdf",
+      "path": "downloads/dfbr.pdf",
+      "bytes": 160509,
+      "sha256": "e75c6847ce5d2bf194d49de3815e861567da8b83ad29ff6ac711f19f25cfb553"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/esvi.pdf",
+      "path": "downloads/esvi.pdf",
+      "bytes": 142370,
+      "sha256": "0ff9f50ab105bf77eac6aa382b3f285ac59a9097e3c252bbaf9b4858662e3ecb"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/gogo.pdf",
+      "path": "downloads/gogo.pdf",
+      "bytes": 165093,
+      "sha256": "d6211a11902a7bcbefc06e66b0de47e4adcccc86641eaba4bd75943858c3e9f9"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgbh.pdf",
+      "path": "downloads/mgbh.pdf",
+      "bytes": 150823,
+      "sha256": "4c244ea335fc6efdbeb48c070360c5a0a64ad0426d59868fbb56ad4894c5e60b"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgit.pdf",
+      "path": "downloads/mgit.pdf",
+      "bytes": 155192,
+      "sha256": "d9274f04cd734a37cfe9cf4a23c13a2ed0fc3546d1c5b6ee69bcf540cd4c35c8"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgju.pdf",
+      "path": "downloads/mgju.pdf",
+      "bytes": 143655,
+      "sha256": "24973c34f43967679812ec2022de5e4224ca59403e33045ce5d87413c35bd4d8"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgmo.pdf",
+      "path": "downloads/mgmo.pdf",
+      "bytes": 138794,
+      "sha256": "c8f5191652834f879be1cee41edfeefe80d312ba0cda5135cffe67ace7d6dd20"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgua.pdf",
+      "path": "downloads/mgua.pdf",
+      "bytes": 160888,
+      "sha256": "14eb0d9b0c97e041613f9bba022542700ce9dc6b137d761b8a807a62c0f4cad1"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgul.pdf",
+      "path": "downloads/mgul.pdf",
+      "bytes": 185741,
+      "sha256": "c3d9d839d00632870c336198df2c20eccae03b1339a4da9e2f643b4528e0d9e1"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/msno.pdf",
+      "path": "downloads/msno.pdf",
+      "bytes": 133674,
+      "sha256": "6de04bdbb990c78b5f17ca9e4f7987375fe24f66cecbe0de05dde8d02090c67a"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/peol.pdf",
+      "path": "downloads/peol.pdf",
+      "bytes": 168874,
+      "sha256": "f32a1617d7587dd892abe1fdd87237a02fade6a06b68606bab8b3da45e94fc17"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/prgu.pdf",
+      "path": "downloads/prgu.pdf",
+      "bytes": 165461,
+      "sha256": "5aac1bac7f05ddfeee28d9bdee36ad2556305406dde48f8645129c84f699c701"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/prpo.pdf",
+      "path": "downloads/prpo.pdf",
+      "bytes": 149108,
+      "sha256": "e57593eb333e61a87758b1ce272c8f7a09245a53f5572bdd3e73c775d75ca26f"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rjrj.pdf",
+      "path": "downloads/rjrj.pdf",
+      "bytes": 165735,
+      "sha256": "bc2c327dc000769ef7031c441d358a2f86c6079e1473d404f17ad77db54809c5"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rser.pdf",
+      "path": "downloads/rser.pdf",
+      "bytes": 148976,
+      "sha256": "00d3959179e7ae6facb6a125fedf93f390e1c0472f7cf735cfb25216b1b7e7c6"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/scar.pdf",
+      "path": "downloads/scar.pdf",
+      "bytes": 152820,
+      "sha256": "aa248e504683fa076b421dfedca0b8ba3bccc0b39540bcba56fabd3e217534c1"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spar.pdf",
+      "path": "downloads/spar.pdf",
+      "bytes": 138234,
+      "sha256": "e4acc45e24703760802db697d6248dc24f93d7a87de32f4bd555e5ae33684258"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/sppi.pdf",
+      "path": "downloads/sppi.pdf",
+      "bytes": 174314,
+      "sha256": "725b208942f3e2e07578ecb21f91786d4cb68fffe442d34bf79286c1731c4e4c"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spsp.pdf",
+      "path": "downloads/spsp.pdf",
+      "bytes": 174846,
+      "sha256": "df60177e3d36f2bba21b1bceed8a966cdadb0b10e1732b5b196163e5df14f4fe"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spso.pdf",
+      "path": "downloads/spso.pdf",
+      "bytes": 145607,
+      "sha256": "ef0f8ce6553a8b79aca456cf5e1f17d2a468c30a28425c16b63c0e9a0521086a"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spta.pdf",
+      "path": "downloads/spta.pdf",
+      "bytes": 146271,
+      "sha256": "40a9a2a3f0091f91a4f9ea653592075120e8624d5fd7f20a6c975ad6ef249a1e"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/bafe.pdf",
+      "path": "downloads/bafe.pdf",
+      "bytes": 124463,
+      "sha256": "d4595148cd81713532fb6b6bd7a5d6ac881cf7d8d8197b01b9772a39ed15ffad"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/baju.pdf",
+      "path": "downloads/baju.pdf",
+      "bytes": 122821,
+      "sha256": "11bf680d79b84df8124880a6aa9c8bbc3efc54c38fe38a4d3c9350e960b8d548"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/bavi.pdf",
+      "path": "downloads/bavi.pdf",
+      "bytes": 136739,
+      "sha256": "096e77acef5b52757d015707c5945f28fd498df0815bd7f02e4315f7afad28b4"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/cecr.pdf",
+      "path": "downloads/cecr.pdf",
+      "bytes": 138757,
+      "sha256": "a8ebf42c6a4bc280d1dfc200077f86f4492a0a8d41a0d498f661c613cb172719"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/ceso.pdf",
+      "path": "downloads/ceso.pdf",
+      "bytes": 122854,
+      "sha256": "aa80d000e9b8aa876eec6ded613007406a7eddb67c25b2abb5b660efcd11bde2"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/pipa.pdf",
+      "path": "downloads/pipa.pdf",
+      "bytes": 127330,
+      "sha256": "019fb3fdb37d275f64410b748893744bc7c33f20139a63a829c279486f142730"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/pipi.pdf",
+      "path": "downloads/pipi.pdf",
+      "bytes": 127370,
+      "sha256": "f4556fa199c99786dcc98a65233e74832d83ee147498ac9d90d0190bc53aade3"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/pite.pdf",
+      "path": "downloads/pite.pdf",
+      "bytes": 142759,
+      "sha256": "2278a0d3b538edf9447d20d5fbe90de89ba45cc61863e19c160b33ff0e8c7f45"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rsal.pdf",
+      "path": "downloads/rsal.pdf",
+      "bytes": 124674,
+      "sha256": "866aa0cf1eef1693c29e587ce6115d9b2af1bcb453e8ffe33b119cac6614e30e"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rspe.pdf",
+      "path": "downloads/rspe.pdf",
+      "bytes": 135177,
+      "sha256": "e25b7573518ff049d026f5e53f0b1ad9cf1a84bffd9a2eeac3125d9e3337ff9f"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rssl.pdf",
+      "path": "downloads/rssl.pdf",
+      "bytes": 152342,
+      "sha256": "28900fb3d29c548bc9be2a50ae97a58a4484efaa0c2704b248826f2f441b32f6"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spba.pdf",
+      "path": "downloads/spba.pdf",
+      "bytes": 130958,
+      "sha256": "acbfe935179aea201152b3b0e7b5419d942ed85b4831843124c27f861b3052e9"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spma.pdf",
+      "path": "downloads/spma.pdf",
+      "bytes": 123619,
+      "sha256": "104e4171f45deecad1e9acf1970f1b09693b5b047f0d7a45773dff42698d63b2"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/spsb.pdf",
+      "path": "downloads/spsb.pdf",
+      "bytes": 136955,
+      "sha256": "a4b5ae3853267b4e5f8615769aeec54e49b039720093287bec1d6029fb62c3c2"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/maba.pdf",
+      "path": "downloads/maba.pdf",
+      "bytes": 117413,
+      "sha256": "b128b0dd9b9ce4cfc761dd16bf2a9643f9ee7e606cfeb3f8fa58d3f838c6c172"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/masa.pdf",
+      "path": "downloads/masa.pdf",
+      "bytes": 122733,
+      "sha256": "c5575e2640e84cf264f42221f24ec23eedd5b37569c967160eec14ab233e4a67"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rnna.pdf",
+      "path": "downloads/rnna.pdf",
+      "bytes": 154966,
+      "sha256": "bc4b4f4d71354b2911db5b2f38a016e9f4c47f63dfce01f062d91d45d0fb287c"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/sear.pdf",
+      "path": "downloads/sear.pdf",
+      "bytes": 132777,
+      "sha256": "17f35f8c0f63369cb852e9f69f6df46ffaa0ccdc8c055ad4f9369b63795885cd"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/acri.pdf",
+      "path": "downloads/acri.pdf",
+      "bytes": 126470,
+      "sha256": "4b2d443656a06d1f7d5868c99c425e979e59f371931d618ce83723c22bcbc572"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/amma.pdf",
+      "path": "downloads/amma.pdf",
+      "bytes": 147128,
+      "sha256": "d1a33c3f53458a65c1ff39ee0f94a75879ffea5fa790297d181a523cdcf0e200"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/pabe.pdf",
+      "path": "downloads/pabe.pdf",
+      "bytes": 135023,
+      "sha256": "655d25f53c3daa801a724fee104c07cb454750c75b9d48de83d8141159747ff9"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/pait.pdf",
+      "path": "downloads/pait.pdf",
+      "bytes": 119671,
+      "sha256": "b29d744f8b643e62f15dcd1b4c4a9d233d6e23193afda9a19b9363749b998677"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/roji.pdf",
+      "path": "downloads/roji.pdf",
+      "bytes": 126947,
+      "sha256": "8908b19a30567ce6a810eef3f6757ffd40cd21efc92c61b9406f1ffcc2cfcd5d"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/rrbo.pdf",
+      "path": "downloads/rrbo.pdf",
+      "bytes": 127195,
+      "sha256": "e43e206ca8bbcaf537fa06c7dee3c71197028cfea3a05af42efe5b3bbeecc65c"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/topa.pdf",
+      "path": "downloads/topa.pdf",
+      "bytes": 121990,
+      "sha256": "0eb718b4d47698d4932eb11b1bc7971e955d205904b41b5478776ffa4ea3680e"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mgti.pdf",
+      "path": "downloads/mgti.pdf",
+      "bytes": 130787,
+      "sha256": "fa27d841dd6ded75c58c7332d840dc58115a597e2ee2d9cd38de9631e30e8818"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mtcu.pdf",
+      "path": "downloads/mtcu.pdf",
+      "bytes": 147516,
+      "sha256": "55a84aabc0d3662a79f2687e6268f7c4e9f44d6ca8de3f09ed0a27aa0dc09400"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2017/prim-fase17/mtro.pdf",
+      "path": "downloads/mtro.pdf",
+      "bytes": 118786,
+      "sha256": "2341a2f9b904dfc8e5bf2064f51c6021a52e7fcd61b6aa907dc16047f1f4d84f"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "year": 2015,
+  "page": "https://maratona.sbc.org.br/hist/2015/index.html",
+  "retrieved_at_utc": "2026-07-12T14:44:33.982266+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2015/resultados/warmup_onesided.pdf",
+      "path": "downloads/warmup_onesided.pdf",
+      "bytes": 284973,
+      "sha256": "b312884b08ecf17b8cc0aa2409815f02e6ac5238464ff714fe8bb77cdf3702f0"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2015/resultados/contest_onesided.pdf",
+      "path": "downloads/contest_onesided.pdf",
+      "bytes": 362184,
+      "sha256": "354b4528d6af8290eeef10909082b918256b19c64d47e2c6b74783fb36748e19"
+    }
+  ]
+}

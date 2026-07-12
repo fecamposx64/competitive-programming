@@ -1,0 +1,21 @@
+{
+  "year": 2006,
+  "page": "https://maratona.sbc.org.br/hist/2006/index.html",
+  "retrieved_at_utc": "2026-07-12T14:41:18.021807+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2006/final/warmup/warmup2006_v1_sin_sout.pdf",
+      "path": "downloads/warmup2006_v1_sin_sout.pdf",
+      "bytes": 113030,
+      "sha256": "263cfca9b8ec7c4cb8611a3d7e21b473b04e9fdd0d0248630ca24f6727141c61"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2006/final/contest/contest2006_v4_sin_sout.pdf",
+      "path": "downloads/contest2006_v4_sin_sout.pdf",
+      "bytes": 343412,
+      "sha256": "bc726a5d72d94dfb3d6b917b602d6a4c7841319b1a99223ce8a5bf9847d6de63"
+    }
+  ]
+}

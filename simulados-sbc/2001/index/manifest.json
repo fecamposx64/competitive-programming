@@ -1,0 +1,21 @@
+{
+  "year": 2001,
+  "page": "https://maratona.sbc.org.br/hist/2001/index.html",
+  "retrieved_at_utc": "2026-07-12T04:45:36.130868+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2001/main.pdf",
+      "path": "downloads/main.pdf",
+      "bytes": 215584,
+      "sha256": "566faadfb539cf87c34d68466e372544919c7c4503689502c8caf50d6baaefba"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2001/errata.pdf",
+      "path": "downloads/errata.pdf",
+      "bytes": 29430,
+      "sha256": "8c2f803329d555544d1a0dace21a53086d8c8384832a35fa790dd3688825bd1d"
+    }
+  ]
+}

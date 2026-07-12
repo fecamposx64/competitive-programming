@@ -1,0 +1,126 @@
+{
+  "year": 2020,
+  "page": "https://maratona.sbc.org.br/hist/2020/resfinal20.html",
+  "retrieved_at_utc": "2026-07-12T16:11:06.364311+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/warmup/pacotes/A.zip",
+      "path": "downloads/A.zip",
+      "bytes": 1678366,
+      "sha256": "1b0f13fffb4f169a857b3d9ef7a89807058a52ac1a48cf746a556209e24a6b6f"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/warmup/pacotes/B.zip",
+      "path": "downloads/B.zip",
+      "bytes": 250868,
+      "sha256": "a51e5c93eeeb35735b6ce7cd798c1d1f403cf77c450dcbe530e721181d83bf78"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/warmup/pacotes/C.zip",
+      "path": "downloads/C.zip",
+      "bytes": 78676,
+      "sha256": "9d8d59b36b693e59d2fcf12d8ffd9a7710024ded0e24f07d7bec234f6f07bfd2"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/A.zip",
+      "path": "downloads/A.zip",
+      "bytes": 1678366,
+      "sha256": "1b0f13fffb4f169a857b3d9ef7a89807058a52ac1a48cf746a556209e24a6b6f"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/B.zip",
+      "path": "downloads/B.zip",
+      "bytes": 250868,
+      "sha256": "a51e5c93eeeb35735b6ce7cd798c1d1f403cf77c450dcbe530e721181d83bf78"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/C.zip",
+      "path": "downloads/C.zip",
+      "bytes": 78676,
+      "sha256": "9d8d59b36b693e59d2fcf12d8ffd9a7710024ded0e24f07d7bec234f6f07bfd2"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/D.zip",
+      "path": "downloads/D.zip",
+      "bytes": 1827444,
+      "sha256": "8b7350085bf00e42f05ab7a72bf042fffaf006e2405069466078175bbe3f100e"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/E.zip",
+      "path": "downloads/E.zip",
+      "bytes": 7066236,
+      "sha256": "f28ef7a542684a8c7c9f270e568326676d202e7df55e905177410ecf8dfa7827"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/F.zip",
+      "path": "downloads/F.zip",
+      "bytes": 1624448,
+      "sha256": "17127d270c91fb51436e157174ed39e792e81a91d429560b2e4a7032a25c2e29"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/G.zip",
+      "path": "downloads/G.zip",
+      "bytes": 92358,
+      "sha256": "43151146b8598bfea68ab464e12e7ce8d54032be1f43ac15966ddb306e64af56"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/H.zip",
+      "path": "downloads/H.zip",
+      "bytes": 181818,
+      "sha256": "9676ebf8f218263d636db7e7d1104653c424aeaf9fad2b28721c7bf7bddbd7b0"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/I.zip",
+      "path": "downloads/I.zip",
+      "bytes": 168486,
+      "sha256": "e956e1f9719dfef6d52f13b9e8532d97d6d14565d1b3f61a6c89e634ebc7f542"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/J.zip",
+      "path": "downloads/J.zip",
+      "bytes": 6838419,
+      "sha256": "2ef77567473a6abfa54b0acb5a37500d4aa6bec92213c06f290ec1eb2ceffdc1"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/K.zip",
+      "path": "downloads/K.zip",
+      "bytes": 37414428,
+      "sha256": "d2c957d555539f7d156da9fa38437a380099a35173a76865ff2572ad319087cb"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/L.zip",
+      "path": "downloads/L.zip",
+      "bytes": 190381,
+      "sha256": "30d714483f283045fc9cb14ef79d65fad7c06d09427aab9373ca85dccdd31431"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/M.zip",
+      "path": "downloads/M.zip",
+      "bytes": 3018536,
+      "sha256": "accb55944e0fa08dd295da3daeedd60f531321b334def378e6d041e73af9332c"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pacotes/N.zip",
+      "path": "downloads/N.zip",
+      "bytes": 92483,
+      "sha256": "bffd39785abb121f70925459f9293dbf987ea3cbecc717451e767fa501649815"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "year": 2009,
+  "page": "https://maratona.sbc.org.br/hist/2009/index.html",
+  "retrieved_at_utc": "2026-07-12T14:41:49.180079+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2009/placar.pdf",
+      "path": "downloads/placar.pdf",
+      "bytes": 271992,
+      "sha256": "d95419b1f10c69323f58f75be75a5e723d0fc8072b52a1765676dbadb97204c4"
+    }
+  ]
+}

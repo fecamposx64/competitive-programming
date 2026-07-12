@@ -1,0 +1,21 @@
+{
+  "year": 2018,
+  "page": "https://maratona.sbc.org.br/hist/2018/primfase18.html",
+  "retrieved_at_utc": "2026-07-12T16:10:25.974446+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2018/prim-fase18/warmup_tests.zip",
+      "path": "downloads/warmup_tests.zip",
+      "bytes": 25870,
+      "sha256": "d082842616aa45d9fa29bcfd51469c21ef9bc9b639ebd83e3f456bf228b97e2c"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2018/prim-fase18/contest_tests.zip",
+      "path": "downloads/contest_tests.zip",
+      "bytes": 47067244,
+      "sha256": "6fa29fbb7631ac444957b096ee1e2a1d3ef80886b3eec5cc57981281a120c6fa"
+    }
+  ]
+}

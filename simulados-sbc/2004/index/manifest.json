@@ -1,0 +1,14 @@
+{
+  "year": 2004,
+  "page": "https://maratona.sbc.org.br/hist/2004/index.html",
+  "retrieved_at_utc": "2026-07-12T04:45:51.829541+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2004/problem_set2004_f_v6.pdf",
+      "path": "downloads/problem_set2004_f_v6.pdf",
+      "bytes": 162557,
+      "sha256": "49fd328fc32e8bf7c268592d092bb099f7243f936a8f6521f2d1c9740aaff136"
+    }
+  ]
+}

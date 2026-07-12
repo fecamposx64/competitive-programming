@@ -1,0 +1,21 @@
+{
+  "year": 2005,
+  "page": "https://maratona.sbc.org.br/hist/2005/index.html",
+  "retrieved_at_utc": "2026-07-12T04:46:07.647587+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2005/warmup2005_v3_stdin.pdf",
+      "path": "downloads/warmup2005_v3_stdin.pdf",
+      "bytes": 87019,
+      "sha256": "19fffe2c712ef4bef8b3bf860bfa968eabe331bed35ae095761c210fa2e744d7"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2005/contest2005_v3_stdin.pdf",
+      "path": "downloads/contest2005_v3_stdin.pdf",
+      "bytes": 160002,
+      "sha256": "4c8aca6ea1653a2a8503a385c4603d35d86d13f5766e19cfcfc4c48bc4e01feb"
+    }
+  ]
+}

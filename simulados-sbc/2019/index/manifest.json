@@ -1,0 +1,49 @@
+{
+  "year": 2019,
+  "page": "https://maratona.sbc.org.br/hist/2019/index.html",
+  "retrieved_at_utc": "2026-07-12T14:47:01.107929+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/warmup/pdf-warmup/warmup_onesided.pdf",
+      "path": "downloads/warmup_onesided.pdf",
+      "bytes": 488140,
+      "sha256": "d75c5e855c63601a8f13c7d43567841275bc09fdd7c6b87dfdba856fe26c5b4a"
+    },
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/warmup/pdf-warmup/info_sheet.pdf",
+      "path": "downloads/info_sheet.pdf",
+      "bytes": 164374,
+      "sha256": "5a8028bc74bd1673520ea29cb269f01386572d9ab8f8b0d484de456218121a94"
+    },
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/warmup/pdf-warmup/warmup_times.pdf",
+      "path": "downloads/warmup_times.pdf",
+      "bytes": 133228,
+      "sha256": "ac2be400818852f2cab5f393bbda87f2a83fa726babf577b9c04bba81e131ef9"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/prova/prova/contest_onesided.pdf",
+      "path": "downloads/contest_onesided.pdf",
+      "bytes": 456792,
+      "sha256": "124c188fc5fea00e07a1017b4be861556d4023e85de88944385d81f8e69e83ab"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/prova/prova/contest_times.pdf",
+      "path": "downloads/contest_times.pdf",
+      "bytes": 137803,
+      "sha256": "8b7271a479f6df9544f148c11392ed98b66e91eab4b0d8cc0518aeaf215d6ad2"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2019/resultados19/latam-report.pdf",
+      "path": "downloads/latam-report.pdf",
+      "bytes": 596082,
+      "sha256": "2a35ef88adefc1fbafe6aeb9bc4ff6b097d6ba3fa8f24d73bcdd5f96d73b2ce5"
+    }
+  ]
+}

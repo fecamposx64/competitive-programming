@@ -1,0 +1,14 @@
+{
+  "year": 1999,
+  "page": "https://maratona.sbc.org.br/hist/1999/index.html",
+  "retrieved_at_utc": "2026-07-12T04:45:27.751460+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/1999/Problems.pdf",
+      "path": "downloads/Problems.pdf",
+      "bytes": 169553,
+      "sha256": "fb15f9a631e86368d28bf07c20c887f9662a0e37eeab78a5fd8e8e627d54dfe9"
+    }
+  ]
+}

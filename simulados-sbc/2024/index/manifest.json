@@ -1,0 +1,21 @@
+{
+  "year": 2024,
+  "page": "https://maratona.sbc.org.br/hist/2024/index.html",
+  "retrieved_at_utc": "2026-07-12T16:19:57.443606+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2024/JoaoPessoa/brbr/warmup-packages.tar",
+      "path": "downloads/warmup-packages.tar",
+      "bytes": 1505280,
+      "sha256": "ffa90734bafc50f0fd6d76b05fee6d385c50173ec8f2a4b01c28d0fcd4c21c1f"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2024/JoaoPessoa/brbr/contest-packages.tar",
+      "path": "downloads/contest-packages.tar",
+      "bytes": 474224640,
+      "sha256": "9f95cde82afe0614d2e89dae5f03d10044938ce55eab263f50a3749814e69ed0"
+    }
+  ]
+}

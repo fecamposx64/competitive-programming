@@ -1,0 +1,14 @@
+{
+  "year": 2008,
+  "page": "https://maratona.sbc.org.br/hist/2008/problemas08.html",
+  "retrieved_at_utc": "2026-07-12T16:09:22.916050+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2008/testset_2008_v3.zip",
+      "path": "downloads/testset_2008_v3.zip",
+      "bytes": 1726913,
+      "sha256": "82037b40c015a6437575047d3bc06f902f4bd5417461ab3803ba1e1c4bd1a600"
+    }
+  ]
+}

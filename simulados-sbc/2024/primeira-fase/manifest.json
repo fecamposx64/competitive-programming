@@ -1,0 +1,21 @@
+{
+  "year": 2024,
+  "page": "https://maratona.sbc.org.br/hist/2024/primfase24.html",
+  "retrieved_at_utc": "2026-07-12T16:20:40.287764+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2024/primfase24/warmup-pf2024/packages_warmup.tar",
+      "path": "downloads/packages_warmup.tar",
+      "bytes": 26992640,
+      "sha256": "ee57ad83edb9d8ed77179d1b34747eb4757bc5f0fe918d1cb49db1f0b85d20bb"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2024/primfase24/contest-pf2024/packages_contest.tar",
+      "path": "downloads/packages_contest.tar",
+      "bytes": 104980480,
+      "sha256": "db91e05dcd011f8fe5e7842334f880f1f7db5fe8c00cc033c1c469e836360a74"
+    }
+  ]
+}

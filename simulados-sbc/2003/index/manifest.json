@@ -1,0 +1,21 @@
+{
+  "year": 2003,
+  "page": "https://maratona.sbc.org.br/hist/2003/index.html",
+  "retrieved_at_utc": "2026-07-12T04:45:46.412279+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2003/warmup.pdf",
+      "path": "downloads/warmup.pdf",
+      "bytes": 15482,
+      "sha256": "fd0dc3da702310f2365b6e1d2e7c3b1eb8b4c437a88f7959f1430db177547a86"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2003/problem_set.pdf",
+      "path": "downloads/problem_set.pdf",
+      "bytes": 51518,
+      "sha256": "3c48dd333c42c8803abd0a45f1b6b7eed5609bae554e5b6583108fa85382bef6"
+    }
+  ]
+}

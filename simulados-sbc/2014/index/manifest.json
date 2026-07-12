@@ -1,0 +1,21 @@
+{
+  "year": 2014,
+  "page": "https://maratona.sbc.org.br/hist/2014/index.html",
+  "retrieved_at_utc": "2026-07-12T14:44:30.624351+00:00",
+  "artifacts": [
+    {
+      "kind": "warmup",
+      "source_url": "https://maratona.sbc.org.br/hist/2014/resultados14/icpcla2014/warmup_onesided.pdf",
+      "path": "downloads/warmup_onesided.pdf",
+      "bytes": 470651,
+      "sha256": "c9e7b9a3ad81678fb809f0d8b9497a2305465e27ae8117d56a1da3ecaa7c69f9"
+    },
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2014/resultados14/icpcla2014/contest_onesided.pdf",
+      "path": "downloads/contest_onesided.pdf",
+      "bytes": 622697,
+      "sha256": "4a756c52d1d48f15ddfa599efbaa0637677ed5b9509eb87ee373c5cd573563e8"
+    }
+  ]
+}

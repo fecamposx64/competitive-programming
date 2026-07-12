@@ -1,0 +1,21 @@
+{
+  "year": 2023,
+  "page": "https://maratona.sbc.org.br/hist/2023/index.html",
+  "retrieved_at_utc": "2026-07-12T16:18:08.977780+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2023/warmup/warmup-packages.tar",
+      "path": "downloads/warmup-packages.tar",
+      "bytes": 6307840,
+      "sha256": "d853230fecee72374eb6e8d5f07308b90edb78d6264ff9d8d31cc53ea6c10324"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2023/contest/contest-packages.tar",
+      "path": "downloads/contest-packages.tar",
+      "bytes": 642662400,
+      "sha256": "8ed77594ed1e903d17502e6c475c5a2ca7d47545ce8d2b1b1b6bf58291fb354c"
+    }
+  ]
+}

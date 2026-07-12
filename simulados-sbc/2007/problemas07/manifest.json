@@ -1,0 +1,21 @@
+{
+  "year": 2007,
+  "page": "https://maratona.sbc.org.br/hist/2007/problemas07.html",
+  "retrieved_at_utc": "2026-07-12T16:09:19.102680+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2007/testset_2007_dos_v1.zip",
+      "path": "downloads/testset_2007_dos_v1.zip",
+      "bytes": 2985459,
+      "sha256": "1b06dd8b569680598d4d75565642521c335325357817a938d70b13fd8c135159"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2007/testset_2007_unix_v1.zip",
+      "path": "downloads/testset_2007_unix_v1.zip",
+      "bytes": 2886734,
+      "sha256": "0fbf55ccd502e36f1310524998297d4bd817e277847a360b4093121e31da76b6"
+    }
+  ]
+}

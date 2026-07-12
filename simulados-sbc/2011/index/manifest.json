@@ -1,0 +1,21 @@
+{
+  "year": 2011,
+  "page": "https://maratona.sbc.org.br/hist/2011/index.html",
+  "retrieved_at_utc": "2026-07-12T16:09:40.894776+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2011/warmup.zip",
+      "path": "downloads/warmup.zip",
+      "bytes": 23040,
+      "sha256": "a58f2e651942342937ceeb9c9e74769887561628e78fa59338fc11d2a9c9092c"
+    },
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2011/contest.zip",
+      "path": "downloads/contest.zip",
+      "bytes": 32949760,
+      "sha256": "7f42b45cfdad8138f02fd018c649caf6a1ee631240633316e594c3086caf6323"
+    }
+  ]
+}

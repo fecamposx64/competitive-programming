@@ -1,0 +1,14 @@
+{
+  "year": 2020,
+  "page": "https://maratona.sbc.org.br/hist/2020/primfase20.html",
+  "retrieved_at_utc": "2026-07-12T16:11:36.995411+00:00",
+  "artifacts": [
+    {
+      "kind": "packages",
+      "source_url": "https://maratona.sbc.org.br/hist/2020/primfase20/competicao_tests.zip",
+      "path": "downloads/competicao_tests.zip",
+      "bytes": 95549321,
+      "sha256": "26cec97873a2482e604dd62a00fef0f84aaa79bceac3d5a8191856f7d825f022"
+    }
+  ]
+}

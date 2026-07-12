@@ -1,0 +1,14 @@
+{
+  "year": 2010,
+  "page": "https://maratona.sbc.org.br/hist/2010/index.html",
+  "retrieved_at_utc": "2026-07-12T14:41:51.220465+00:00",
+  "artifacts": [
+    {
+      "kind": "contest",
+      "source_url": "https://maratona.sbc.org.br/hist/2010/score.pdf",
+      "path": "downloads/score.pdf",
+      "bytes": 145303,
+      "sha256": "e11c6780bbbbed6d5acd5648dafb4b6ce65638d7e10260258c3d28ebf3b32b28"
+    }
+  ]
+}
