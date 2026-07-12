@@ -51,7 +51,31 @@ make test FILE=solution.cpp INPUT=case.in EXPECTED=case.out
 make judge FILE=solution.cpp PACKAGE=package.tar PROBLEM=A
 ~~~
 
-The local environment uses Apple Clang 21.0.0 and C++20. The template uses standard C++ headers and does not depend on bits/stdc++.h.
+The project requires a C++20 compiler. The template uses standard C++ headers and avoids compiler-specific convenience headers.
+
+## Download SBC materials
+
+The collector discovers official links from the [SBC historical archive](https://maratona.sbc.org.br/hist/). Downloads remain local and are excluded from Git.
+
+~~~bash
+# Preview an edition without downloading files
+python3 tools/fetch_sbc.py --year 2025 --dry-run
+
+# Download problem statements and warmups
+python3 tools/fetch_sbc.py \
+  --year 2025 \
+  --stage primeira-fase \
+  --include contest,warmup \
+  --pdf-only
+
+# Download official test packages, when published
+python3 tools/fetch_sbc.py \
+  --year 2025 \
+  --stage primeira-fase \
+  --include packages
+~~~
+
+Use `--dry-run` first. Do not open a contest's test package before a timed simulation.
 
 ## CSES workflow
 
@@ -93,4 +117,3 @@ Recommended topics:
 competitive-programming, cpp, algorithms, data-structures, cses, icpc, problem-solving.
 
 The downloaded files and build artifacts are excluded by .gitignore. Only source code, manifests, documentation, and scripts should be committed.
-
